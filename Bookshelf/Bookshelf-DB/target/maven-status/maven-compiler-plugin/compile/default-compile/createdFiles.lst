@@ -1,0 +1,9 @@
+se\linahejenstedt\bookshelf\repositories\BookRepository.class
+se\linahejenstedt\bookshelf\model\BookConverterImpl.class
+main.class
+se\linahejenstedt\bookshelf\model\BookLookupImpl.class
+se\linahejenstedt\bookshelf\model\ISBNRules.class
+se\linahejenstedt\bookshelf\exceptions\IncorrectISBNException.class
+se\linahejenstedt\bookshelf\model\BookLookupSource.class
+se\linahejenstedt\bookshelf\service\BookShelfServiceImpl.class
+se\linahejenstedt\bookshelf\model\BookLookup.class

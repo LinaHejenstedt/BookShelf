@@ -1,0 +1,5 @@
+se\linahejenstedt\bookshelf\repositories\BookRepositoryInMemory.class
+se\linahejenstedt\bookshelf\model\BookConverterTest.class
+se\linahejenstedt\bookshelf\model\ISBNRulesTest.class
+se\linahejenstedt\bookshelf\util\ISBNTestBuilder.class
+se\linahejenstedt\bookshelf\service\BookServiceTest.class

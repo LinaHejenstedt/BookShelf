@@ -1,0 +1,6 @@
+se\linahejenstedt\bookshelf\entities\Author.class
+se\linahejenstedt\bookshelf\entities\Book.class
+se\linahejenstedt\bookshelf\service\BookShelfService.class
+main.class
+se\linahejenstedt\bookshelf\entities\AbstractEntity.class
+se\linahejenstedt\bookshelf\model\BookConverter.class
